@@ -32,7 +32,7 @@
 <?php include "includes/navigation.php"; ?>
 
 <div class="main">
-    <div>Lorem impsum</div>
+    <div>Lorem impsum test test test</div>
 </div>
 
 <div class="footer">
